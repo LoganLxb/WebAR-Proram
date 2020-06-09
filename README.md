@@ -1,6 +1,6 @@
 # WebAR-Proram
 WebAR方案整理
-最近在研究各种web实现AR的现有方案，整理一下，以下是国内外的部分现有方案
+以下是国内外的部分现有方案
 
 开源
 非Web
@@ -59,9 +59,11 @@ model-viewer
 
 github：https://github.com/google/model-viewer Stars：1600
 
-最近在研究各种web实现AR的现有方案，整理一下，以下是国内外的部分现有方案
 
-商业
+
+商业解决方案
+
+
 8thwall
 官网：https://www.8thwall.com/
 
