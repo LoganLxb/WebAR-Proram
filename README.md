@@ -80,4 +80,4 @@ github：https://github.com/google/model-viewer Stars：1600
 官网：https://awe.media/
 
 ## vectary
-官网：https://www.vectary.com/
+官网：https://www.vectary.com/(有免费版本，已测试，可以导出代码做兼容)
